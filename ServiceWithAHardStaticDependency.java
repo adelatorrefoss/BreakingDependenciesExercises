@@ -1,3 +1,4 @@
+// Try to break the static dependency referenced by the static field.
 class SomeService {
 
     // This inner class simulates a framework deep configuration class, static and untouchable.
